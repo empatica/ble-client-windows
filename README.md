@@ -56,3 +56,7 @@ When you want to stop receiving data, simply disconnect the device or send
 
     device_disconnect
     device_disconnect OK
+
+### System requirements
+
+The application can be run on Windows 7, 8 or 10 desktop computers. 
