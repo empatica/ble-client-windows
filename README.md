@@ -29,7 +29,7 @@ In order to get Empatica BLE Server, please contact us at <mailto:support@empati
 ## Connect to a device and receive data
 
 - Check that a device is connected to EmpaticaBLEServer
-- Connect to a device and start receiveing data (from a full description of the command please visit our support page: <https://www.empatica.com/docs/reference_BLE_win.php>
+- Connect to a device and start receiveing data (from a full description of the command please visit our support page: <http://empatica.github.io/Empatica_BLE_Server.html>
 
 ### Protocol example
 
