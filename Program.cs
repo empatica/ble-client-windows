@@ -14,7 +14,7 @@ namespace EmpaticaBLEClient
                 Console.WriteLine();
                 Console.WriteLine("********** Empatica BLE Client **********");
                 Console.WriteLine("For the communication protocol and the list of commands, please visit");
-                Console.WriteLine("www.empatica.com/docs/reference_TCP_win.php");
+                Console.WriteLine("http://empatica.github.io/Empatica_BLE_Server.html");
                 return;
             }
 
