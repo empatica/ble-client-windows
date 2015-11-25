@@ -60,3 +60,7 @@ When you want to stop receiving data, simply disconnect the device or send
 ### System requirements
 
 The application can be run on Windows 7, 8 or 10 desktop computers. 
+
+If you need any additional information about the Empatica BLE Server for Windows, please check the [official documentation][1].
+
+[1]: http://developer.empatica.com
