@@ -12,13 +12,13 @@ namespace EmpaticaBLEClient
             if (args.FirstOrDefault() == "--help")
             {
                 Console.WriteLine();
-                Console.WriteLine("********** Empatica BLE Client **********");
+                Console.WriteLine("********** Empatica streaming server client **********");
                 Console.WriteLine("For the communication protocol and the list of commands, please visit");
                 Console.WriteLine("http://empatica.github.io/windows-ble-server.html");
                 return;
             }
 
-            Console.WriteLine("Press ENTER to connect to Empatica BLE Server");
+            Console.WriteLine("Press ENTER to connect to E4 streaming server");
             Console.ReadKey();
 
             AsynchronousClient.StartClient();
